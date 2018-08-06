@@ -1,0 +1,28 @@
+
+
+.gifBtn {
+    margin: 10px;
+
+}
+
+#favs {
+    z-index: 0;
+    background: lightgray;
+}
+
+#search {
+    padding-top: 50px;
+}
+
+#gifs {
+    z-index: 1;
+    float:left;
+}
+
+.item {
+
+}
+
+.gif {
+    
+}
