@@ -1,4 +1,7 @@
 
+p {
+    margin-left: 50px;
+}
 
 .gifBtn {
     margin: 10px;
@@ -21,6 +24,10 @@
 
 .item {
 
+}
+
+.checkbox {
+    margin: 10px;
 }
 
 .gif {
